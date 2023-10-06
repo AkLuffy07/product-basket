@@ -1,6 +1,7 @@
 <template>
     <div>
         <navHeader />
+        <h3>Product Basket</h3>
     </div>
 </template>
 

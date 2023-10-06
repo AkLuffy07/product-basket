@@ -3,6 +3,7 @@
     <!-- <navHeader /> -->
     <MainView />
   </div>
+  <h2> Hactober fest <h2/>
 </template>
 
 <script>
